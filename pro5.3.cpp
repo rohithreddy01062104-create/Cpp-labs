@@ -13,4 +13,5 @@ class Dashboard{
 int main(){
     Car c; c.accelerate();c.accelerate();
     Dashboard ().display(c);
+    return 0;
 }
